@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-size: cover;
+font-weight: bolder;
+}
+h1{
+    color: yellow;
+}
+p{
+    color: white    ;
+    font-style: italic;
+}
+#start,#new{
+    width: 15rem;
+    height: 50px;
+    background-color: goldenrod;
+    font-size: x-large;
+    font-weight: bold;
+    }
+    #new{
+        margin-top: 5px;
+    }
